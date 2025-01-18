@@ -19,7 +19,7 @@ check_package() {
 }
 
 # Check and install required packages
-required_packages=("PySide6" "requests" "markdown2")
+required_packages=("PySide6" "requests" "markdown2" "PyQt5")
 
 for package in "${required_packages[@]}"; do
     if ! check_package "$package"; then
