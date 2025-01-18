@@ -1,0 +1,70 @@
+How to check disk space usage in Linux?
+Explain the chmod command and its common use cases
+What are the most useful Linux networking commands?
+How to find and kill processes in Linux?
+Explain the difference between sudo and su
+How to schedule tasks using crontab?
+What are symbolic links and how to create them?
+How to compress and extract files in Linux?
+Explain Linux file permissions system
+How to monitor system resources in real-time?
+What are the most common bash scripting commands?
+How to manage services using systemctl?
+Explain Linux directory structure
+How to set up SSH key-based authentication?
+What are environment variables and how to set them?
+How to configure firewall rules using iptables?
+Explain the difference between hard links and soft links
+How to troubleshoot network connectivity issues?
+What are the best practices for Linux system security?
+How to manage user accounts and groups in Linux?
+Explain the Linux boot process step by step
+How to configure and use LVM (Logical Volume Management)?
+What are inodes and how do they work?
+How to set up and configure RAID in Linux?
+Explain Linux package management systems (apt, yum, dnf)
+How to analyze system logs effectively?
+What are Linux kernel modules and how to manage them?
+How to perform system backup and restoration?
+Explain Linux process states and lifecycle
+How to optimize Linux system performance?
+What are SELinux and AppArmor and how to configure them?
+How to manage disk partitions using fdisk/parted?
+Explain Linux memory management and swap
+How to configure network interfaces in Linux?
+What are systemd units and how to create custom services?
+How to configure and manage Docker containers?
+How to set up and manage Kubernetes clusters?
+Explain Linux namespaces and cgroups
+How to implement disk quotas in Linux?
+What are Linux capabilities and how to manage them?
+How to configure and optimize Apache/Nginx web servers?
+Explain Linux load balancing techniques
+How to implement Linux high availability solutions?
+What are Linux containers and container orchestration?
+How to manage storage devices and file systems?
+How to implement Linux virtualization (KVM/QEMU)?
+Explain Linux network bonding and teaming
+How to configure and manage DNS servers?
+What are PAM modules and how to configure authentication?
+How to implement disk encryption in Linux?
+How to implement Linux system auditing?
+What is Linux kernel hardening and how to implement it?
+How to configure and manage LDAP authentication?
+Explain Linux resource limits and control groups
+How to implement automatic system updates?
+What are Linux software RAID best practices?
+How to configure and manage NFS shares?
+Explain Linux system monitoring tools and techniques
+How to implement Linux clustering solutions?
+What are Linux performance tuning strategies?
+How to configure and manage Samba file sharing?
+Explain Linux network traffic monitoring tools
+How to implement Linux disaster recovery plans?
+What are Linux containerization alternatives to Docker?
+How to configure and manage Linux mail servers?
+How to implement Linux log rotation and management?
+What are Linux kernel tuning parameters?
+How to configure and manage PostgreSQL/MySQL databases?
+Explain Linux network quality of service (QoS)
+How to implement Linux file system quotas?
